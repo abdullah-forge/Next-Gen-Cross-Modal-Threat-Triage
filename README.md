@@ -1,4 +1,6 @@
-###########mANDATORY CHANGES IN README FILE MUST MAKE THESE CHANGES###############################
+###########MANDATORY CHANGES IN README FILE MUST MAKE THESE CHANGES###############################
+
+
 title: Threat Triage Dashboard
 emoji: 🚀
 colorFrom: red
